@@ -1,0 +1,14 @@
+Title,Flavor,Description,Use
+Chief Chef,You're in charge!,"You're head chef first, determine the outcome of any tied votes, and clarify any ambigous rules. ",
+Health Inspector,You put what in the lasagna!?!,Reveal an ingredient in the lasagna.,On your turn as your action. Once per lasagna.
+Restaurant Owner,"If anyone asks, you are their robot supervisor.",Your vote counts twice.,
+Mob Boss,Legitimate business person.,Overturn the outcome of a vote.,Once per game
+Seer,You already know.,Look under another chef's hat.,On your turn as your action. Once per game.
+Archeology Professor,Watch out for boulders.,Swap an ingredient of your choosing in the lasagna with a random ingredient from your pantry.,On your turn as your action
+Taste Tester,What happened to all the mozzarella?,View an ingredient in the lasagna,At the start of your turn. Once per lasagna.
+Recycler Chef,"Reduce, re-use, and the other thing!",Swap an ingredient from the scraps pile and your pantry.,At the start of your turn. Once per lasagna.
+Freugal Chef,It's still good. It's still good.,Randomly take an ingredient from the scraps pile to add to your pantry.,On your turn as your action
+Man Hands,Don't you just love lobster?,Choose an additional ingredient when head chef,
+Picky Eater,Not that we know any of those...,Move an ingredient from the lasagna to the scraps pile,On your turn as your action. Once per lasagna.
+Turncoat,Whatever.,Swap chef hats with someone,Once per game
+Killjoy,But please don't actually hurt Joy!,"At the end of another player's turn, undo everything that happened on that turn.",Once per lasagna
